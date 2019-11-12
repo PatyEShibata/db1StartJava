@@ -4,9 +4,31 @@ import java.util.Scanner;
 
 public class App {
 
-    public static void main (String []args){
+    public static String soma(Integer numero1, Integer numero2) {
+        Integer resultado;
+        resultado = numero1 + numero2;
+        return "o resultado é: " + resultado;
+    }
 
-        Scanner scan = new Scanner (System.in);
+
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+        System.out.println("numero 1: ");
+        Integer numero1 = scan.nextInt();
+        scan.nextLine();
+        System.out.println("numero 2: ");
+        Integer numero2 = scan.nextInt();
+        scan.nextLine();
+        String result =  soma(numero1, numero2);
+        System.out.println(soma(numero1, numero2));
+
+    }
+
+}
+
+       /*  public static void main(String[] args) {
+       Scanner scan = new Scanner (System.in);
         System.out.println("Exercicio de inteiro");
         Integer soma, subtrair;
 
@@ -27,6 +49,7 @@ public class App {
         System.out.println("Exercicio de Texto");
 
         Scanner scan1 = new Scanner (System.in);
+        System.out.println("Digite o texto: ");
         String textoNormal = scan1.nextLine();
 
         String textoEmMinusculo = textoNormal.toLowerCase();
@@ -77,4 +100,4 @@ public class App {
 
 
     }
-}
+}*/
