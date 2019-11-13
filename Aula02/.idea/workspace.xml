@@ -10,27 +10,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Aula2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1337">
+            <state relative-caret-position="17">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
-                <element signature="e#1007#1008#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Aula2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="227">
+              <caret line="105" column="9" lean-forward="true" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,20 +32,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+            <state relative-caret-position="570">
+              <caret line="108" column="1" lean-forward="true" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#2712#2713#0" expanded="true" />
+                <element signature="e#2805#2806#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,8 +60,8 @@
         <option value="$PROJECT_DIR$/src/Aula02.java" />
         <option value="$PROJECT_DIR$/src/com/db1/db1start/Aula2.java" />
         <option value="$PROJECT_DIR$/src/com/db1/db1start/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/com/db1/db1start/Aula2Test.java" />
         <option value="$PROJECT_DIR$/src/com/db1/db1start/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/db1/db1start/Aula2Test.java" />
       </list>
     </option>
   </component>
@@ -118,9 +106,9 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573588444248" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573674076848" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
@@ -135,8 +123,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Aula2Test.deveRetornar3">
-    <configuration name="Aula2Test.deveRetornar1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Aula2Test.deveRetornarSequenciaDeLetrasSeparadas">
+    <configuration name="Aula2Test.deveRetornar8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aula02" />
       <extension name="coverage">
         <pattern>
@@ -146,13 +134,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.Aula2Test" />
-      <option name="METHOD_NAME" value="deveRetornar1" />
+      <option name="METHOD_NAME" value="deveRetornar8" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula2Test.deveRetornar2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula2Test.deveRetornarQuantidadeLetrasEspaco8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aula02" />
       <extension name="coverage">
         <pattern>
@@ -162,13 +150,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.Aula2Test" />
-      <option name="METHOD_NAME" value="deveRetornar2" />
+      <option name="METHOD_NAME" value="deveRetornarQuantidadeLetrasEspaco8" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula2Test.deveRetornar3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aula02" />
       <extension name="coverage">
         <pattern>
@@ -178,13 +166,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.Aula2Test" />
-      <option name="METHOD_NAME" value="deveRetornar3" />
+      <option name="METHOD_NAME" value="deveRetornarQuantidadedeLetra7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula2Test.deveRetornar4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula2Test.deveRetornarQuantidadedeLetraEspaco7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aula02" />
       <extension name="coverage">
         <pattern>
@@ -194,13 +182,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.Aula2Test" />
-      <option name="METHOD_NAME" value="deveRetornar4" />
+      <option name="METHOD_NAME" value="deveRetornarQuantidadedeLetraEspaco7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula2Test.deveRetornarPar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula2Test.deveRetornarSequenciaDeLetrasSeparadas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aula02" />
       <extension name="coverage">
         <pattern>
@@ -210,7 +198,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.db1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.db1start.Aula2Test" />
-      <option name="METHOD_NAME" value="deveRetornarPar" />
+      <option name="METHOD_NAME" value="deveRetornarSequenciaDeLetrasSeparadas" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -218,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Aula2Test.deveRetornar3" />
-        <item itemvalue="JUnit.Aula2Test.deveRetornarPar" />
-        <item itemvalue="JUnit.Aula2Test.deveRetornar2" />
-        <item itemvalue="JUnit.Aula2Test.deveRetornar1" />
-        <item itemvalue="JUnit.Aula2Test.deveRetornar4" />
+        <item itemvalue="JUnit.Aula2Test.deveRetornarSequenciaDeLetrasSeparadas" />
+        <item itemvalue="JUnit.Aula2Test.deveRetornarQuantidadedeLetraEspaco7" />
+        <item itemvalue="JUnit.Aula2Test.deveRetornarQuantidadedeLetra7" />
+        <item itemvalue="JUnit.Aula2Test.deveRetornar8" />
+        <item itemvalue="JUnit.Aula2Test.deveRetornarQuantidadeLetrasEspaco8" />
       </list>
     </recent_temporary>
   </component>
@@ -240,49 +228,48 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Aula2Test_teste - 2019.11.12 at 16h 57m 21s.xml">
-      <configuration name="Aula2Test.teste" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetra7 - 2019.11.13 at 16h 31m 26s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornar5 - 2019.11.12 at 16h 59m 39s.xml">
-      <configuration name="Aula2Test.deveRetornar5" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetra7 - 2019.11.13 at 16h 36m 00s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornar8 - 2019.11.12 at 17h 00m 04s.xml">
-      <configuration name="Aula2Test.deveRetornar8" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetra7 - 2019.11.13 at 16h 37m 52s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornar4 - 2019.11.12 at 17h 06m 08s.xml">
-      <configuration name="Aula2Test.deveRetornar4" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetra7 - 2019.11.13 at 16h 38m 04s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornar1 - 2019.11.12 at 17h 09m 20s.xml">
-      <configuration name="Aula2Test.deveRetornar1" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetra7 - 2019.11.13 at 16h 38m 35s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornar1 - 2019.11.12 at 17h 09m 30s.xml">
-      <configuration name="Aula2Test.deveRetornar1" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetra7 - 2019.11.13 at 16h 40m 23s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornar2 - 2019.11.12 at 17h 10m 42s.xml">
-      <configuration name="Aula2Test.deveRetornar2" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetra7 - 2019.11.13 at 16h 40m 49s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetra7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornarPar - 2019.11.12 at 17h 44m 34s.xml">
-      <configuration name="Aula2Test.deveRetornarPar" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarQuantidadedeLetraEspaco7 - 2019.11.13 at 16h 55m 59s.xml">
+      <configuration name="Aula2Test.deveRetornarQuantidadedeLetraEspaco7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula2Test_deveRetornar3 - 2019.11.12 at 17h 46m 17s.xml">
-      <configuration name="Aula2Test.deveRetornar3" configurationId="JUnit" />
+    <history-entry file="Aula2Test_deveRetornarSequenciaDeLetrasSeparadas - 2019.11.13 at 17h 24m 42s.xml">
+      <configuration name="Aula2Test.deveRetornarSequenciaDeLetrasSeparadas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Aula2Test_deveRetornarSequenciaDeLetrasSeparadas - 2019.11.13 at 17h 26m 57s.xml">
+      <configuration name="Aula2Test.deveRetornarSequenciaDeLetrasSeparadas" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32843137" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
@@ -290,71 +277,75 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Aula02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="78" column="1" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="78" selection-end-column="1" />
-          <folding>
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aula02.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/AppTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Aula2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1337">
+        <state relative-caret-position="17">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="108" column="1" lean-forward="true" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
           <folding>
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#2712#2713#0" expanded="true" />
+            <element signature="e#2805#2806#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Aula2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="227">
+          <caret line="105" column="9" lean-forward="true" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/db1/db1start/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
           </folding>
         </state>
       </provider>

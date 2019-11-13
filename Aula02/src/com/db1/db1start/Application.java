@@ -17,7 +17,7 @@ public class Application {
 3 - Método que receba DB1START e retorne a quantidade de letras que existe nesta palavra
 4 - Método que receba DB1START (tendo um espaço no inicio e no fim da palavra) e retorne a quantidade de letras que existe
 5 - Método que retorne o item 4 com a mesma quantidade de letras do item 3.
-            6 - Método que receba o seu nome completo e exiba somente as 4 primeiras letras do seu nome
+6 - Método que receba o seu nome completo e exiba somente as 4 primeiras letras do seu nome
 7 - Método que receba o seu nome completo e exiba a partir da terceira letra do seu nome
 8 - Método que receba o seu nome completo e exiba somente as 4 ultimas letras do seu nome
 9 - Método que receba o seu nome completo e substitua o seu primeiro nome por ALUNO/ALUNA
@@ -30,42 +30,79 @@ public class Application {
 2 - Método que exiba qual é o menor valor entre três doubles 3 - Método que exiba a média de três números
 4 - Método que calcule a área de um triangulo*/
 
-    public Integer soma(Integer numero1, Integer numero2){
-        return numero1+numero2;
+    public Integer soma(Integer numero1, Integer numero2) {
+        return numero1 + numero2;
     }
 
-    public Integer subtracao(Integer numero1, Integer numero2){
-        return numero1-numero2;
+    public Integer subtracao(Integer numero1, Integer numero2) {
+        return numero1 - numero2;
     }
 
-    public Integer multiplicacao(Integer numero1, Integer numero2){
-        return numero1*numero2;
+    public Integer multiplicacao(Integer numero1, Integer numero2) {
+        return numero1 * numero2;
     }
 
-    public Integer divisao(Integer numero1, Integer numero2){
-        return numero1/numero2;
+    public Integer divisao(Integer numero1, Integer numero2) {
+        return numero1 / numero2;
     }
 
-    public Boolean par (Integer numero){
-        if (numero % numero == 0 ){
+    public Boolean par(Integer numero) {
+        if (numero % numero == 0) {
             return true;
-        } return false;
+        }
+        return false;
 
     }
 
-    public Integer maior(Integer numero1, Integer numero2){
-        if (numero1>numero2){
+    public Integer maior(Integer numero1, Integer numero2) {
+        if (numero1 > numero2) {
             return numero1;
         }
         return numero2;
     }
 
-    public Boolean impar(Integer numero){
-        for (i=0, i<numero, i++){
-            if (numero % numero == 0){
-                return i+1;
+    public Integer quantidadeImpar(Integer numero) {
+        if (numero % 2 == 0) {
+            return numero / 2;
+        } else {
+            return (numero + 1) / 2;
+        }
+    }
+
+    public String letrasMaiuscula(String texto) {
+        return texto.toUpperCase();
+    }
+
+    public String letrasMinuscula(String texto) {
+        return texto.toLowerCase();
+    }
+
+    public Integer quantidadeLetra() {
+        Integer numero = 0;
+        String texto = "DB1START";
+        for (int i = 0; i < texto.length(); i++) {
+            if (texto.charAt(i) == '1' | texto.charAt(i) == '2' | texto.charAt(i) == '3' | texto.charAt(i) == '4' | texto.charAt(i) == '5' | texto.charAt(i) == '6' | texto.charAt(i) == '7' | texto.charAt(i) == '8' | texto.charAt(i) == '9') {
+                numero = numero + 1;
             }
         }
+        return (texto.length() - numero);
+    }
+
+    public Integer quantidadeLetraEspaco() {
+        Integer numero = 0;
+        String texto = " DB1START ".trim();
+        Integer total = texto.trim().length();
+        for (int i = 0; i < total; i++) {
+            if (texto.charAt(i) == '1' | texto.charAt(i) == '2' | texto.charAt(i) == '3' | texto.charAt(i) == '4' | texto.charAt(i) == '5' | texto.charAt(i) == '6' | texto.charAt(i) == '7' | texto.charAt(i) == '8' | texto.charAt(i) == '9') {
+                numero = numero + 1;
+            }
+        }
+        return (total - numero);
+    }
+
+    public String [] retornarPalavrasSeparadas (String valor){
+        return valor.split(", ");
+
     }
 
 
